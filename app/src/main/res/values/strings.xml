@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HW8</string>
+    <string name="numbernull">0</string>
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="number4">4</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="number7">7</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="number0">0</string>
+    <string name="numberac">AC</string>
+    <string name="numberplmn">+/-</string>
+    <string name="numberdiv">/</string>
+    <string name="numberproc">%</string>
+    <string name="numbermult">x</string>
+    <string name="numberadd">+</string>
+    <string name="numbereq">=</string>
+    <string name="numbersubtr">-</string>
+    <string name="point">.</string>
+    <string name="sharetext">Share</string>
+    <string name="policies1">Policies</string>
+    <string name="policy2">Policy</string>
+    <string name="product_category1">Product Category</string>
+    <string name="origin_country1">Origin Country</string>
+    <string name="brand1">Brand</string>
+    <string name="current_policies1">Current Policies</string>
+    <string name="export_as_csv1">Export as CSV</string>
+</resources>

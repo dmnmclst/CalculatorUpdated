@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Base.Button" parent="ShapeAppearanceOverlay.Material3.Button">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">28dp</item>
+        <item name="cornerRadius">200dp</item>
+    </style>
+
+    <style name="Gray.Button" parent="Base.Button">
+        <item name="backgroundTint">@color/gray</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Orange.Button" parent="Base.Button">
+        <item name="backgroundTint">@color/Orange</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Dark_Gray.Button" parent="Base.Button">
+        <item name="backgroundTint">@color/Dark_gray</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ForButton" parent="Base.Button">
+        <item name="cornerRadius">20dp</item>
+        <item name="paddingStart">-150dp</item>
+        <item name="android:drawableEnd">@drawable/ic_right</item>
+        <item name="android:textSize">23dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_width">350dp</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/gray_blue</item>
+    </style>
+
+    <style name="Theme.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@drawable/bg_splash_screen</item>
+    </style>
+
+</resources>

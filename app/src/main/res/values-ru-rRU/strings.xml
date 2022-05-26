@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharetext">Поделиться</string>
+    <string name="policies1">Полисы</string>
+    <string name="policy2">Стратегия</string>
+    <string name="product_category1">Категория продукта</string>
+    <string name="origin_country1">Страна происхождения</string>
+    <string name="brand1">Бренд</string>
+    <string name="current_policies1">Текущая политикая</string>
+    <string name="export_as_csv1">Экспорт в формате CSV</string>
+</resources>
