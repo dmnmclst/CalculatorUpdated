@@ -6,6 +6,6 @@
     <string name="product_category1">Категория продукта</string>
     <string name="origin_country1">Страна происхождения</string>
     <string name="brand1">Бренд</string>
-    <string name="current_policies1">Текущая политикая</string>
+    <string name="current_policies1">Текущая политика</string>
     <string name="export_as_csv1">Экспорт в формате CSV</string>
 </resources>
